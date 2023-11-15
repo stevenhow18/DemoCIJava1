@@ -24,7 +24,7 @@
         <maven.compiler.target>1.8</maven.compiler.target> 
         <spring-boot.version>2.3.4.RELEASE</spring-boot.version>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
-    </properties> 1
+    </properties> 
     
     <dependencyManagement>
         <dependencies>
